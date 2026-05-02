@@ -1,7 +1,16 @@
 {
+  "name": "logicflow-exclusive-gateway",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src/"
+  ],
   "dependencies": {
     "@logicflow/core": "^2.2.1",
     "@logicflow/extension": "^2.2.1",
-    "logicflow": "^1.0.1"
+    "@types/react": "^19.2.14",
+    "logicflow": "^1.0.1",
+    "react": "^19.2.5"
   }
 }
