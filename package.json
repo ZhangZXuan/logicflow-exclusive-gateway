@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@logicflow/core": "^2.2.1",
+    "@logicflow/extension": "^2.2.1",
+    "logicflow": "^1.0.1"
+  }
+}
